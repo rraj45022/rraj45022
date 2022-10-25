@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rraj45022
-- 👀 I’m interested in data mining in python
-- 🌱 I’m currently learning basics of python
+- 👀 I’m interested in data science and machine learning.
+- 😉 5 stars in SQL and Python programming in Hackerrank.
 
 <!---
 rraj45022/rraj45022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
