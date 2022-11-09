@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @rraj45022
 - 👀 I’m interested in data science and machine learning.
-- 😉 5 stars in SQL and Python programming in Hackerrank.
+- 😉 5 stars in SQL and Python programming and Problem Solving on Hackerrank.
+- 😊 3 star in C programming on Hackerrank.
 
 <!---
 rraj45022/rraj45022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
