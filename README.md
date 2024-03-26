@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rraj45022
-- 👀 I’m interested in data science and machine learning.
+- 👀 I’m a full stack developer skilled in MERN. Currently furnacing my skills with different type of projects. I am also hands on experienced with data analytics projects.
 - 😉 5 stars in SQL and Python programming and Problem Solving on Hackerrank.
 - 😊 3 star in C programming on Hackerrank.
 
