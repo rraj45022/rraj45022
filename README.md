@@ -40,12 +40,13 @@
 
 ---
 
-## 🔥 What I'm Working On
+## 🔥 Featured Projects
 
-- 🤖 **Agentic RAG System** — Multi-agent orchestration with MCP servers & FastAPI
-- 🎫 **Ticket Assignment Recommender** — ML-powered smart ticket routing
-- 📊 **Duplicate Customer Prediction** — Probabilistic ML models for data deduplication
-- 🔐 **PostgreSQL UDFs** — Custom encryption/decryption functions in the DB layer
+* **🤖 [MoodMirror (AI Interview Presence Coach)](https://interview-presence-coach.vercel.app/)** — Web-based AI mock interview platform featuring a real-time OpenCV facial landmark/emotion pipeline and Groq API (Llama-3.3 & Whisper) for low-latency contextual mock interviews.
+* **🧠 Agentic RAG Knowledge Hub** — Multi-agent orchestration framework utilizing MCP (Model Context Protocol) servers and FastAPI backends to deliver intelligent document retrieval and generation.
+* **🎫 Ticket Assignment Recommender** — ML-powered smart routing system built to dynamically evaluate and predict optimal ticket distributions for support queues.
+* **📊 Duplicate Customer Prediction** — Data deduplication pipeline using probabilistic machine learning models to identify and merge overlapping consumer profiles.
+* **🔐 PostgreSQL UDFs** — Specialized database engineering project focusing on custom encryption and decryption functions optimized directly within the DB storage layer.
 
 ---
 
